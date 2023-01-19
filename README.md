@@ -29,3 +29,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairmaqbool3&show_icons=true&locale=en&layout=compact" alt="umairmaqbool3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairmaqbool3&show_icons=true&locale=en" alt="umairmaqbool3" /></p>
+
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pinqua&show_icons=true&locale=en" alt="pinqua" /></p>
+
+<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinqua&" alt="pinqua" /></p>
+<br/>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pinqua&column=4&margin-w=15&margin-h=15" alt="pinqua" /></a></p>
