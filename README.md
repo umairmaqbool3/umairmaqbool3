@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **umair.maqbool55@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmaqbool3&label=Profile%20views&color=0e75b6&style=flat" alt="umairmaqbool3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairmaqbool3" alt="umairmaqbool3" /></a> </p>
 
