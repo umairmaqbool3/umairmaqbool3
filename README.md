@@ -26,7 +26,7 @@
 
 <h3 align="left">Programming Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,react,js,firebase,html,css,bootstrap,git,github)](https://skillicons.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
