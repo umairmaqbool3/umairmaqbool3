@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **android , java, kotlin**
+- 💬 Ask me about **android , java, kotlin, react**
 
 - 📫 How to reach me **umair.maqbool55@gmail.com**
 
