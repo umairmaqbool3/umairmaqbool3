@@ -24,7 +24,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/umair.maqbool55/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,react,js,firebase,html,css,sqlite,mysql,mongodb,bootstrap,tailwind,git,github,postman,flask)](https://skillicons.dev)
 
