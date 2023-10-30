@@ -26,7 +26,7 @@
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,react,js,firebase,html,css,sqlite,mysql,mongodb,bootstrap,tailwind,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,react,js,reactnative,flutter,firebase,html,css,sqlite,mysql,mongodb,bootstrap,tailwind,git,github,postman)](https://skillicons.dev)
 
 
 
