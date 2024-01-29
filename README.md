@@ -28,7 +28,7 @@
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,react,js,reactnative,flutter,firebase,html,css,sqlite,mysql,mongodb,bootstrap,tailwind,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,react,redux,js,flutter,firebase,html,css,sqlite,mysql,mongodb,bootstrap,tailwind,git,github,postman)](https://skillicons.dev)
 
 
 
@@ -36,3 +36,8 @@
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairmaqbool3&" alt="umairmaqbool3" /></p>
 <br/>
+# 📊 GitHub Stats:
+[![subinoybiswas's GitHub | Stats](https://stats.quine.sh/subinoybiswas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subinoybiswas)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairmaqbool3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umairmaqbool3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairmaqbool3&theme=github_dark)
