@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmaqbool3&label=Profile%20views&color=0e75b6&style=flat" alt="umairmaqbool3" /> </p>
 
-- 🌱 I’m learning **Jetpack Compose,Flutter**
+- 🌱 I’m learning **Flutter**
 
 -     Currently Working on React and React Native projects
      
